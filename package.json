@@ -3,5 +3,24 @@
     "body-parser": "^1.20.1",
     "cors": "^2.8.5",
     "express": "^4.18.2"
-  }
+  },
+  "name": "t1",
+  "version": "1.0.0",
+  "main": "T1.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yakzanCode/T1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yakzanCode/T1/issues"
+  },
+  "homepage": "https://github.com/yakzanCode/T1#readme",
+  "description": ""
 }
